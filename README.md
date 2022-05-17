@@ -1,5 +1,6 @@
 # Datavis 2022
 Travail de validation/perfectionnement de Grégoire et Melissa.
+
 Dataset : [Video Game Sales and Ratings](https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings)
 
 ## Journal de travail
