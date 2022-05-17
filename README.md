@@ -1,11 +1,9 @@
-# datavis2022
+# Datavis 2022
+Travail de validation/perfectionnement de Grégoire et Melissa.
+Dataset : [Video Game Sales and Ratings](https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings)
 
 ## Journal de travail
-17.05 : Discussion, organisation - 1h (Melissa + Grégoire)
-
-noter les heures passées sur les différents éléments du projet au fur et à mesure, autant pour nous que pour Isaac
-
-lien vers le dataset: https://www.kaggle.com/datasets/kendallgillies/video-game-sales-and-ratings?resource=download
+17.05 : Discussion, organisation, idées en vrac - 1h (Melissa + Grégoire)
 
 ## Idées en vrac
  - On peut faire une map par zone de ventes (EU, USA, Japon): https://github.com/d3/d3-geo
