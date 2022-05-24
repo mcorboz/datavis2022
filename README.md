@@ -7,7 +7,7 @@ Dataset : [Video Game Sales and Ratings](https://www.kaggle.com/datasets/kendall
 
 17.05 : Discussion, organisation, idées en vrac - 1h (Melissa + Grégoire)
 
-24.05 : Tests avec Node.JS, car ce serait fun d'avoir le .json dans mongodb - 2h (Grégoire)
+24.05 : Tests avec Node.JS, car ce serait fun d'avoir le .json dans mongodb (Grégoire)
 
 ## Idées en vrac
  - On peut faire une map par zone de ventes (EU, USA, Japon): https://github.com/d3/d3-geo + https://d3-graph-gallery.com/choropleth.html
